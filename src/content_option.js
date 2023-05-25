@@ -11,29 +11,30 @@ const introdata = {
         second: "I code cool websites",
         third: "I love coding",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Welcome to my web portfolio! Explore my journey from dairy farm worker to aspiring software developer.",
+    your_img_url: "https://images.unsplash.com/photo-1520583457224-aee11bad5112?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1365&q=80",
+    // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: " I'm Siwakorn Paorod, a dairy farm worker transitioning into software development. Currently enrolled in a bootcamp to learn HTML, CSS, JavaScript, and industry-standard tools. With a strong work ethic, problem-solving skills, and a passion for continuous learning, I'm eager to contribute to dynamic teams and develop innovative software solutions. Explore my portfolio for coding projects, and let's connect to discuss potential opportunities.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Dairy Farm Worker",
+        where: "Nattaporn Farm",
+        date: "2016 - Now",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+    // {
+    //     jobtitle: "Designer of week",
+    //     where: "Jamalya",
+    //     date: "2019",
+    // },
+    // {
+    //     jobtitle: "Designer of week",
+    //     where: "ALquds",
+    //     date: "2019",
+    // },
 ];
 
 const skills = [{
@@ -49,12 +50,24 @@ const skills = [{
         value: 10,
     },
     {
-        name: "React",
+        name: "Bootstrap",
+        value: 85,
+    },
+    {
+        name: "React.js",
         value: 60,
     },
     {
-        name: "Bootstrap",
-        value: 85,
+        name: "Node.js",
+        // value: 85,
+    },
+    {
+        name: "Express.js",
+        // value: 85,
+    },
+    {
+        name: "MongoDB",
+        // value: 85,
     },
     {
         name: "SQL",
@@ -159,7 +172,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "siwakorn.paorod@gmail.com",
     YOUR_FONE: "064-5515952",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Feel free to contact me for inquiries or collaboration opportunities.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
