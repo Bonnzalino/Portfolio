@@ -18,7 +18,7 @@ const introdata = {
 
 const dataabout = {
     title: "about my self",
-    aboutme: " I'm Siwakorn Paorod, a dairy farm worker transitioning into software development. Currently enrolled in a bootcamp to learn HTML, CSS, JavaScript, and industry-standard tools. With a strong work ethic, problem-solving skills, and a passion for continuous learning, I'm eager to contribute to dynamic teams and develop innovative software solutions. Explore my portfolio for coding projects, and let's connect to discuss potential opportunities.",
+    aboutme: `I'm Siwakorn Paorod, a dairy farm worker transitioning into software development. Currently enrolled in a bootcamp to learn HTML, CSS, JavaScript, and industry-standard tools. With a strong work ethic, problem-solving skills, and a passion for continuous learning, I'm eager to contribute to dynamic teams and develop innovative software solutions. Explore my portfolio for coding projects, and let's connect to discuss potential opportunities.`,
 };
 const worktimeline = [{
         jobtitle: "Dairy Farm Worker",
